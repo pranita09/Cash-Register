@@ -4,3 +4,6 @@ const cashGiven = document.querySelector("#cash-given");
 
 console.log(billAmount);
 
+
+
+
